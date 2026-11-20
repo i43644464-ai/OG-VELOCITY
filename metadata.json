@@ -1,0 +1,6 @@
+{
+  "name": "OG VELOCITY — 4K Multiplayer Voice Squads, Social Rooms & Arcade",
+  "description": "A 4K-grade social voice & arcade hub featuring live voice squad rooms, animated CP & VIP badges, rings, custom gifts, and playable arcade games.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
